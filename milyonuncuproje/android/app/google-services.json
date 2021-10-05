@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68664974787",
+    "firebase_url": "https://milyonuncuproje-default-rtdb.firebaseio.com",
+    "project_id": "milyonuncuproje",
+    "storage_bucket": "milyonuncuproje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68664974787:android:8a71d1bc1d8914b1ab7176",
+        "android_client_info": {
+          "package_name": "com.milyonuncuproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68664974787-sokkoqambrgdqd9trkgi5b72j5vto48s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUUan4P2_iaeGy0zqciUDQAKD9ly5Cjzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68664974787-sokkoqambrgdqd9trkgi5b72j5vto48s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

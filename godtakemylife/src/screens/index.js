@@ -1,0 +1,6 @@
+export * from './homeTab'
+export * from './MessageTab'
+export * from './NewsTab'
+export * from './ProfileTab'
+export * from './Splash'
+export * from './Login'

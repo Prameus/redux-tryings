@@ -1,0 +1,2 @@
+export const KEYBOARD_OPEN = "KEYBOARD_OPEN"
+export const KEYBOARD_CLOSE = "KEYBOARD_CLOSE"
